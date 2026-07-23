@@ -1,1 +1,9 @@
 .DS_Store
+node_modules/
+dist/
+data/*.sqlite
+tsconfig.tsbuildinfo
+work/
+*.log
+.claude/
+outputs/*.png
